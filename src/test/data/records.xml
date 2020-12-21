@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<records>
+    <record reference="192563">
+        <accountNumber>NL93ABNA0585619023</accountNumber>
+        <description>Tickets for Willem King</description>
+        <startBalance>24.96</startBalance>
+        <mutation>-43.76</mutation>
+        <endBalance>-18.8</endBalance>
+    </record>
+    <record reference="114779">
+        <accountNumber>NL56RABO0149876948</accountNumber>
+        <description>Candy for Peter Theuß</description>
+        <startBalance>5429</startBalance>
+        <mutation>-939</mutation>
+        <endBalance>6368</endBalance>
+    </record>
+    <record reference="126621">
+        <accountNumber>NL56RABO0149876948</accountNumber>
+        <description>Clothes from Peter Bakker</description>
+        <startBalance>28.59</startBalance>
+        <mutation>-11.97</mutation>
+        <endBalance>16.62</endBalance>
+    </record>
+    <record reference="180697">
+        <accountNumber>NL27SNSB0917829871</accountNumber>
+        <description>Clothes from Vincent de Vries</description>
+        <startBalance>46.77</startBalance>
+        <mutation>-18.2</mutation>
+        <endBalance>28.57</endBalance>
+    </record>
+    <record reference="121405">
+        <accountNumber>NL69ABNA0433647324</accountNumber>
+        <description>Tickets from Jan Theuß</description>
+        <startBalance>72.96</startBalance>
+        <mutation>-10.27</mutation>
+        <endBalance>62.69</endBalance>
+    </record>
+    <record reference="106378">
+        <accountNumber>NL90ABNA0585647886</accountNumber>
+        <description>Clothes for Daniël King</description>
+        <startBalance>75.1</startBalance>
+        <mutation>+49.47</mutation>
+        <endBalance>124.57</endBalance>
+    </record>
+    <record reference="146208">
+        <accountNumber>NL46ABNA0625805417</accountNumber>
+        <description>Tickets for Vincent Theuß</description>
+        <startBalance>10.1</startBalance>
+        <mutation>-0.3</mutation>
+        <endBalance>9.8</endBalance>
+    </record>
+    <record reference="186441">
+        <accountNumber>NL56RABO0149876948</accountNumber>
+        <description>Tickets for Rik Bakker</description>
+        <startBalance>44.63</startBalance>
+        <mutation>-0.08</mutation>
+        <endBalance>44.55</endBalance>
+    </record>
+    <record reference="157827">
+        <accountNumber>NL32RABO0195610843</accountNumber>
+        <description>Clothes from Daniël King</description>
+        <startBalance>3980</startBalance>
+        <mutation>+1000</mutation>
+        <endBalance>4981</endBalance>
+    </record>
+    <record reference="182963">
+        <accountNumber>NL90ABNA0585647886</accountNumber>
+        <description>Flowers for Jan Theuß</description>
+        <startBalance>78.74</startBalance>
+        <mutation>+8.33</mutation>
+        <endBalance>87.07</endBalance>
+    </record>
+</records>
