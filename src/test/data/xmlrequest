@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -X POST -H 'Content-Type: text/xml' --data-binary "@records.xml" http://localhost:8080/transactions
